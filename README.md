@@ -13,8 +13,4 @@
   </a>
 </div>
 
-<div>
-  <a href="https://github.com/jmfs12/Github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmfs12&theme=moltack&layout=donut-horizontal" width="500" height="600" />
-  </a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
