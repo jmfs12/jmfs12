@@ -7,10 +7,6 @@
 </div>
 
 
-<div>
-  <a href="https://github.com/jmfs12/Github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jmfs12&show_icons=true&theme=moltack&card_width=600&count_private=true" width="600" height="200" />
-  </a>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmfs12)](https://github.com/jmfs12/github-readme-stats)
