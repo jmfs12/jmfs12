@@ -11,9 +11,8 @@ My name is **João Miguel**, and I'm a **Fullstack Developer in training**, with
 
 ## 🧠 Technologies & Languages
 <div>
-  <span>Frontend<span/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,css,java,spring,postgres,sql,py,c,cpp&theme=dark&perline=4" />
   </a>
 </div>
 
