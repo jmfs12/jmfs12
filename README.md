@@ -1,5 +1,5 @@
 # João Miguel 👨‍💻  
-🎓 1st Semester - Systems Analysis and Development @ UNINASSAU  
+🎓 2st Semester - Systems Analysis and Development @ UNINASSAU  
 💼 Intern in Development and Electronic Automation  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=92cicog27dlqwnujaob9pacjv&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
