@@ -5,7 +5,7 @@
 
 
 ## 👋 Hello! Welcome  
-My name is **João Miguel**, and I'm a **Fullstack Developer in training**, with knowledge in a variety of programming languages and modern technologies. I'm passionate about web development, automation, and innovation-driven projects.
+My name is **João Miguel**, and I'm a **Fullstack Developer in training**, with knowledge in a variety of programming languages and modern technologies. I'm passionate about web development, and innovation-driven projects.
 
 
 
