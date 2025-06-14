@@ -12,7 +12,7 @@ My name is **João Miguel**, and I'm a **Fullstack Developer in training**, with
 ## 🧠 Technologies & Languages
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,tailwind,css,java,spring,postgres,c,cpp,linux,git&theme=dark&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,tailwind,css,java,spring,postgres,c,cpp,linux,git&theme=light&perline=5" />
   </a>
 </div>
 
