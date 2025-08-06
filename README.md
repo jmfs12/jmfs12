@@ -21,5 +21,5 @@ My name is **João Miguel**, and I'm a **Fullstack Developer in training**, with
 
 ## 📬 Get in Touch
 
-- 📧 jonaomiguel@gmail.com  
+- 📧 joanomiguel@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jmf-souza)  
