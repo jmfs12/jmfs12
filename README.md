@@ -1,7 +1,7 @@
 # João Miguel 👨‍💻  
 🎓 2st Semester - Systems Analysis and Development @ UNINASSAU  
 💼 .NET Developer @ Pitang  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=92cicog27dlqwnujaob9pacjv&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=irc7dapgdg7qf8w3l93lrq4fi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=irc7dapgdg7qf8w3l93lrq4fi&redirect=true)
 
 
 ## 👋 Hello! Welcome  
