@@ -1,6 +1,6 @@
 # João Miguel 👨‍💻  
 🎓 2st Semester - Systems Analysis and Development @ UNINASSAU  
-💼 Junior .NET Developer @ Pitang  
+💼 .NET Developer @ Pitang  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=92cicog27dlqwnujaob9pacjv&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
@@ -12,7 +12,7 @@ My name is **João Miguel**, and I'm a **Fullstack Developer in training**, with
 ## 🧠 Technologies & Languages
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,tailwind,css,java,spring,postgres,c,cpp,linux,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,jquery,nodejs,react,nextjs,html,bootstrap,tailwind,css,java,spring,postgres,c,cpp,linux,git&theme=light" />
   </a>
 </div>
 
