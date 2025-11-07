@@ -4,7 +4,10 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=irc7dapgdg7qf8w3l93lrq4fi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=irc7dapgdg7qf8w3l93lrq4fi&redirect=true)
 
 ## 👋 Hello! Welcome  
-My name is **João Miguel**, and I'm a **Fullstack Developer in training**, with knowledge in a variety of programming languages and modern technologies. I'm passionate about web development, and innovation-driven projects.
+I'm **João Miguel**, a **.NET Developer** passionate about creating robust and maintainable software solutions.  
+My focus is on backend development using **C#, ASP.NET Core and ASP.NET Framework, and SQL Server**, with an emphasis on clean architecture and performance.  
+  
+💡 I’m driven by continuous improvement, code quality, and the pursuit of scalable and efficient systems.  
 
 
 
